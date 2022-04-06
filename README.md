@@ -32,8 +32,11 @@ Each image is a .tiff file with CFA layout (RGGB pattern) and can be translated 
  
 ## How to download
 
-The dataset can be downloaded on [IEEE Dataport](https://ieee-dataport.org/documents/bvi-lowlight). Directory `full_aligned` contains the dataset with full available range of scenes and ISO levels. Each folder containing all images per one scene is put in a separate .zip archive.
+The dataset can be downloaded on [IEEE Dataport](https://ieee-dataport.org/documents/bvi-lowlight). 
+
+- `full_aligned` directory contains the dataset with full available range of scenes and ISO levels with 30 shots per scene/camera/ISO level. Each folder containing all images per one scene is put in a separate .zip archive.
 
 
+- `reduced_aligned` directory contains the short version of the dataset with full available range of, half of the ISO levels range and half of the number of shots (15). Each folder containing all images per one scene is put in a separate .zip archive.
 ## 
 
